@@ -38,7 +38,7 @@ y
 dna_at=c(dna_AT, y)
 dna_at
 
-##zadanie4
+##zadanie4 --- Нужно посчитать общее количество гласных (нужно записать суммы по отдельным гласным в один вектор и посчитать сумму)
 letters
 sample(letters)
 text=sample(letters, size = 10000, replace = TRUE)
